@@ -1,4 +1,3 @@
-import React from "react";
 import { CheckCircle, FlaskConical, Factory, Construction } from "lucide-react";
 
 const img1 =
